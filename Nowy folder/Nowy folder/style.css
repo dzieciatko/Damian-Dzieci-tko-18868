@@ -1,0 +1,56 @@
+#tlo 
+{
+
+	margin: auto;
+	width: 1000px;
+	height: 900px;
+	background-color: gold;
+	background: url("./z.jpg");
+
+}
+
+body 
+{
+
+background: url("./cob.jpg");
+background-size: 100px;
+background-position: fixed;
+}
+
+#gl
+{
+	float: top;
+	width: 1000px;
+	height: 150px;
+	
+	}
+#pr 
+{
+	float: left;
+	width: 400px;
+	height: 600px;
+	background: url("./z.jpg");
+	background-size: 200px;
+}
+#lw 
+{
+
+	float: left;
+	width: 600px;
+	height: 600px;
+	background: url("./z.jpg");
+	background-size: 800px;
+
+
+}
+#st 
+{
+
+	float: left;
+	width: 1000px;
+	height: 150px;
+	background: url("./z.jpg");
+	background-size:75px;
+
+
+}
